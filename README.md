@@ -1,10 +1,11 @@
 # About
 
-This Weather-App Fetches Live data from the "OpenWeather" API and displays the data on a Card UI on the Users Device.
+This Weather-App Fetches Live data from the "OpenWeather" API and displays the data on a Card UI on the Users Device when the location/City Name is entered In the search bar.
+
+![Screenshot (5)](https://github.com/hisekr/Weather-Api-Project/assets/40202261/befddd77-8001-463c-bfd7-768a11aefa26)
 
 
-
-
+![Screenshot (6)](https://github.com/hisekr/Weather-Api-Project/assets/40202261/d209f40b-9802-476f-9595-31d7a3f9be80)
 
 
 # Getting Started with Create React App
